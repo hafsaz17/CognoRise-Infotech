@@ -1,4 +1,4 @@
-# 📊 Data Analytics Internship Projects at Cognorise Info Tech 📊
+## 📊 Data Analytics Internship Projects at Cognorise InfoTech 
 Welcome to my GitHub repository showcasing projects developed during my Data Analytics internship at Cognorise Info Tech. 
 
 Stay tuned for updates as I dive into exploratory data analysis, predictive modeling, and more!
